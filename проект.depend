@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1650556028 source:c:\users\pc\desktop\проектная работа\проект\main.cpp
+	<math.h>
+	<iostream>
+	<vector>
+	"plant.h"
+
+1487011920 c:\users\pc\desktop\проектная работа\проект\plant.h
+
+1487012148 source:c:\users\pc\desktop\проектная работа\проект\plant.c
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"plant.h"
+
